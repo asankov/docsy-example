@@ -176,5 +176,9 @@ params:
         url: "https://github.com/asankov"
         icon: "fab fa-github"
         desc: "My personal GitHub account!"
+      - name: "LinkedIn"
+        url: "https://linkedin.com/in/asankov"
+        icon: "fab fa-linkedin"
+        desc: "My LinkedIn account!"
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
     developer:
